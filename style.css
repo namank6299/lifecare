@@ -457,6 +457,7 @@ img.pediatrician {
     align-items: center;
     text-align: left;
     padding-right: 8px;
+    justify-content: center;
 }
 
 .de-text-heading {
@@ -1206,9 +1207,9 @@ html {
         align-items: center;
     }
 
-    .de-brief-text-item {
+    /*.de-brief-text-item {
         width: 80%;
-    }
+    }*/
 
     .de-text-heading {
         text-align: center;
@@ -1292,6 +1293,10 @@ html {
 
     .de-selection select {
         width: 90%;
+    }
+
+    img.pad-img{
+        padding: 0 10%;
     }
 
     .form-element {
